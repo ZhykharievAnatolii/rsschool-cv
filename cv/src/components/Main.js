@@ -36,6 +36,7 @@ export const Main=()=>{
             </div>
             <div className="card col-md-4 col-md-pull-4" style={{"width": "18rem"}}>
                 <div className="card-body ">
+                    My code example :
                     <a className="dropdown-item" href="https://github.com/ZhykharievAnatolii/ClockApplication">Clock Application</a>
                     <img src={Codeexample} className="img-responsive" alt="code example"/>
                 </div>
