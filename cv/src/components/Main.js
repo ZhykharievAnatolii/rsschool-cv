@@ -3,6 +3,7 @@ import '../index.css';
 import Photo from '../assets/myfoto.jpg'
 import Certificate from '../assets/certificatemarkup.png'
 import Certificate2 from '../assets/certificatefrontendpro.png'
+import Codeexample from '../assets/codeexample.png'
 export const Main=()=>{
     return(
         <div className="row">
@@ -35,7 +36,7 @@ export const Main=()=>{
             </div>
             <div className="card col-md-4 col-md-pull-4" style={{"width": "18rem"}}>
                 <div className="card-body ">
-
+                    <img src={Codeexample} className="img-responsive" alt="code example"/>
                 </div>
             </div>
         </div>
