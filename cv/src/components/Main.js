@@ -33,6 +33,11 @@ export const Main=()=>{
                         and have knowledge about the structure and how it works.</p>
                 </div>
             </div>
+            <div className="card col-md-4 col-md-pull-4" style={{"width": "18rem"}}>
+                <div className="card-body ">
+
+                </div>
+            </div>
         </div>
     )
 }
