@@ -1,1 +1,1 @@
-https://ZhykharievAnatolii.github.io/rsschool-cv/cv
+https://github.com/ZhykharievAnatolii/rsschool-cv/tree/main/cv
