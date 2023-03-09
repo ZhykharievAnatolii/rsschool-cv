@@ -39,7 +39,7 @@ export const Header=()=>{
                                 Languages
                             </a>
                             <ul className="dropdown-menu">
-                                <li><a className="dropdown-item" href="#">English- upper-intermediate level</a></li>
+                                <li><a className="dropdown-item" href="#">English-upper-intermediate level</a></li>
                                 <li><a className="dropdown-item" href="#">Ukrainian- native</a></li>
                                 <li><a className="dropdown-item" href="#">Russian- native</a></li>
                             </ul>
